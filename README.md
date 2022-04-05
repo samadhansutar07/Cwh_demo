@@ -1,2 +1,2 @@
-# Cwh_demo
-demo repo for cwh tutorial
+# git_demo
+demo repo for git  tutorial
